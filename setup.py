@@ -8,5 +8,5 @@ setup(
     author="Andrey Urusov",
     author_email="tapwi93@gmail.com",
     description="Collection of useful functions for Uniswap v3 backtester",
-    url="https://github.com/AndreyUrus/backtester-defi",
+    url="https://github.com/AndreyUrus/backtester_defi",
 )
